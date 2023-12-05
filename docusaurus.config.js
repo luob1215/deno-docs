@@ -12,7 +12,6 @@ const config = {
   projectName: "luob1215.github.io",
   organizationName: "luob1215",
   deploymentBranch: "gh-pages",
-  trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   i18n: {
