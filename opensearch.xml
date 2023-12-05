@@ -4,8 +4,8 @@
   <ShortName>Deno Docs</ShortName>
   <Description>Search Deno Docs</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.deno.com/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://docs.deno.com/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.deno.com/opensearch.xml" />
-  <moz:SearchForm>https://docs.deno.com/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://luob1215.github.io/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://luob1215.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://luob1215.github.io/opensearch.xml" />
+  <moz:SearchForm>https://luob1215.github.io/</moz:SearchForm>
 </OpenSearchDescription>
