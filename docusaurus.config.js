@@ -7,8 +7,12 @@ const config = {
   title: "Deno Docs",
   tagline: "Deno is the next generation runtime for JavaScript and TypeScript.",
   favicon: "img/favicon.ico",
-  url: "https://docs.deno.com",
+  url: "https://luob1215.github.io",
   baseUrl: "/",
+  projectName: "luob1215.github.io",
+  organizationName: "luob1215",
+  deploymentBranch: "gh-pages",
+  trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   i18n: {
