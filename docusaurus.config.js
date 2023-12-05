@@ -8,7 +8,7 @@ const config = {
   tagline: "Deno is the next generation runtime for JavaScript and TypeScript.",
   favicon: "img/favicon.ico",
   url: "https://luob1215.github.io",
-  baseUrl: "/",
+  baseUrl: "/deno-docs/",
   projectName: "luob1215.github.io",
   organizationName: "luob1215",
   deploymentBranch: "gh-pages",
